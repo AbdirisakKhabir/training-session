@@ -21,6 +21,10 @@
                 <input type="text" name="" id="" class="form-control">
                 <label for="">Password</label>
                 <input type="text" name="" id="" class="form-control mb-5">
+                <label for="">Password</label>
+                <input type="text" name="" id="" class="form-control mb-5">
+                <label for="">Password</label>
+                <input type="text" name="" id="" class="form-control mb-5">
                 <button class="btn btn-success mb-5">Regiter</button>
             </form>
         </div>
